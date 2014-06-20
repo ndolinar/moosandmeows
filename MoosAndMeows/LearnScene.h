@@ -2,8 +2,8 @@
 //  LearnScene.h
 //  MoosAndMeows
 //
-//  Created by Vladimir Stračkovski on 16/06/14.
-//  Copyright (c) 2014 Vladimir Stračkovski. All rights reserved.
+//  Created by Neja Dolinar on 16/06/14.
+//  Copyright (c) 2014 Neja Dolinar. All rights reserved.
 //
 
 #import <SpriteKit/SpriteKit.h>

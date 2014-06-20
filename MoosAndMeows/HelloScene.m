@@ -2,7 +2,7 @@
 //  HelloScene.m
 //  MoosAndMeows
 //
-//  Created by Neja DOlinar on 16/06/14.
+//  Created by Neja Dolinar on 16/06/14.
 //  Copyright (c) 2014 Neja Dolinar. All rights reserved.
 //
 
